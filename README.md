@@ -8,3 +8,7 @@ Initially the ChainKey dapp will push the processing to the blockchain at server
 Toolset includes Hyperledger / Cello / Go / JS and IBM Cloud
 
 https://chainkey.io
+
+For voting (corporate / nation state) there is a different version
+
+http://keyvote.io
